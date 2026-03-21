@@ -120,7 +120,7 @@ export default function HomePage({ params: { locale } }: { params: { locale: str
           </div>
 
           {/* Stats */}
-          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(4, 1fr)', gap: 20, maxWidth: 600, margin: '0 auto' }}>
+          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gap: 16, maxWidth: 500, margin: '0 auto' }}>
             {[
               { value: '12,000+', label: t('hero.stats.students') },
               { value: '30+', label: t('hero.stats.courses') },
@@ -152,9 +152,10 @@ export default function HomePage({ params: { locale } }: { params: { locale: str
             {features.map(({ icon, key }) => (
               <div key={key} style={{
                 background: '#0d1b2a',
-                border: '1px solid rgba(255,255,255,0.1)',
+                border: '1px solid rgba(212,175,55,0.25)',
                 borderRadius: 16,
                 padding: '28px 24px',
+                boxShadow: '0 4px 20px rgba(0,0,0,0.4)',
               }}>
                 <div style={{
                   width: 48, height: 48,
