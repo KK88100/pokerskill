@@ -1,5 +1,5 @@
 import type { Metadata } from 'next'
-import { Inter, Playfair_Display } from 'next/font/google'
+
 import { notFound } from 'next/navigation'
 import { NextIntlClientProvider } from 'next-intl'
 import { getMessages } from 'next-intl/server'
@@ -11,8 +11,8 @@ import GeoBanner from '../../components/geo/GeoBanner'
 import SchemaOrg from '../../components/seo/SchemaOrg'
 import '../globals.css'
 
-const inter = Inter({ subsets: ['latin'], variable: '--font-inter' })
-const playfair = Playfair_Display({ subsets: ['latin'], variable: '--font-playfair' })
+
+
 
 export function generateStaticParams() {
   return locales.map((locale) => ({ locale }))
@@ -231,7 +231,7 @@ export default async function LocaleLayout({
   const messages = await getMessages()
 
   return (
-    <html lang={locale} className={`${inter.variable} ${playfair.variable}`}>
+    <html lang={locale} className="">
       <head>
         <SchemaOrg
           type="Organization"
