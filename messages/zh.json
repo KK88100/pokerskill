@@ -1,0 +1,210 @@
+{
+  "nav": {
+    "home": "首页",
+    "learn": "学习中心",
+    "courses": "课程",
+    "join": "加入社群",
+    "joinTelegram": "加入 Telegram"
+  },
+  "hero": {
+    "badge": "专业扑克培训平台",
+    "title": "掌握扑克技巧",
+    "titleHighlight": "赢得更多胜利",
+    "subtitle": "从基础牌理到高级博弈策略，系统学习扑克思维。加入数千名学员，在真实对局中持续进化。",
+    "cta": "立即开始学习",
+    "ctaSecondary": "加入 Telegram 社群",
+    "stats": {
+      "students": "活跃学员",
+      "courses": "专业课程",
+      "winRate": "胜率提升",
+      "community": "社群成员"
+    }
+  },
+  "features": {
+    "title": "为什么选择 PokerSkill",
+    "subtitle": "我们提供系统化的扑克学习路径，帮助你从新手成长为高手",
+    "items": {
+      "strategy": {
+        "title": "专业策略体系",
+        "desc": "涵盖德州扑克、奥马哈等主流玩法，从基础胜率计算到高阶 GTO 策略"
+      },
+      "community": {
+        "title": "精英社群讨论",
+        "desc": "加入 Telegram 专属社群，与职业牌手实时交流，分享牌局复盘"
+      },
+      "video": {
+        "title": "实战视频教学",
+        "desc": "高清录制的真实牌局分析，由职业选手逐手讲解每个决策背后的逻辑"
+      },
+      "progress": {
+        "title": "进度追踪系统",
+        "desc": "可视化学习进度，针对薄弱环节智能推送练习题和知识点"
+      },
+      "live": {
+        "title": "直播答疑课",
+        "desc": "每周定期直播，职业教练在线答疑，解析高频错误和常见陷阱"
+      },
+      "certificate": {
+        "title": "学习认证",
+        "desc": "完成课程获得专业认证，证明你的扑克技能水平"
+      }
+    }
+  },
+  "cta": {
+    "title": "准备好提升你的扑克水平了吗？",
+    "subtitle": "立即加入 Telegram 社群，获取免费学习资料和每日牌局分析",
+    "button": "立即加入 t.me/dzdf88",
+    "note": "完全免费，随时可以退出"
+  },
+  "learn": {
+    "title": "学习中心",
+    "subtitle": "系统化的扑克知识体系，从入门到精通",
+    "filterAll": "全部",
+    "filterBeginner": "新手入门",
+    "filterIntermediate": "进阶技巧",
+    "filterAdvanced": "高级策略",
+    "readMore": "阅读更多",
+    "articles": {
+      "basics": {
+        "title": "德州扑克基础规则完全指南",
+        "desc": "零基础学习德州扑克，从牌型大小到基本玩法，10分钟快速上手",
+        "tag": "新手入门"
+      },
+      "position": {
+        "title": "位置优势：扑克中最重要的概念",
+        "desc": "理解位置如何影响你的决策，学会利用后位优势获取更多价值",
+        "tag": "进阶技巧"
+      },
+      "gto": {
+        "title": "GTO 策略入门：均衡博弈理论",
+        "desc": "了解 Game Theory Optimal 的基本概念，构建无懈可击的扑克策略",
+        "tag": "高级策略"
+      },
+      "bankroll": {
+        "title": "资金管理：长期盈利的关键",
+        "desc": "科学的资金管理策略帮你度过低谷期，实现长期稳定盈利",
+        "tag": "进阶技巧"
+      },
+      "reads": {
+        "title": "读牌技巧：解读对手的行为模式",
+        "desc": "通过下注sizing、时机和行为线索推测对手手牌范围",
+        "tag": "进阶技巧"
+      },
+      "bluff": {
+        "title": "虚张声势的艺术：何时该诈唬",
+        "desc": "学会在正确时机执行诈唬，让对手无法轻易判断你的手牌",
+        "tag": "高级策略"
+      }
+    }
+  },
+  "courses": {
+    "title": "专业课程",
+    "subtitle": "由职业牌手打造的系统课程，助你快速提升实战能力",
+    "enrollNow": "立即报名",
+    "free": "免费",
+    "premium": "精品",
+    "duration": "时长",
+    "lessons": "课时",
+    "level": "难度",
+    "items": {
+      "beginner": {
+        "title": "扑克新手速成班",
+        "desc": "从零开始学习德州扑克，掌握基本规则、牌型识别和基础策略，让你在第一周就能自信上桌",
+        "duration": "6小时",
+        "lessons": "24",
+        "level": "入门"
+      },
+      "cash": {
+        "title": "现金桌盈利体系",
+        "desc": "针对现金桌的完整策略体系，包括跟注范围、价值下注、保护底池等核心技术",
+        "duration": "12小时",
+        "lessons": "48",
+        "level": "中级"
+      },
+      "tournament": {
+        "title": "锦标赛冠军之路",
+        "desc": "深度解析锦标赛打法，ICM 压力处理、泡沫期策略、终桌博弈等高阶技术",
+        "duration": "15小时",
+        "lessons": "60",
+        "level": "高级"
+      },
+      "mental": {
+        "title": "扑克心理学与倾斜控制",
+        "desc": "建立强大的心理防线，学会在压力下保持冷静，彻底消除倾斜对决策的影响",
+        "duration": "4小时",
+        "lessons": "16",
+        "level": "通用"
+      }
+    }
+  },
+  "join": {
+    "badge": "限时免费加入",
+    "title": "加入中国最专业的",
+    "titleHighlight": "扑克学习社群",
+    "subtitle": "超过 10,000+ 扑克爱好者已经加入，每天分享牌局复盘、策略讨论和实战技巧",
+    "cta": "立即加入 Telegram 社群",
+    "ctaNote": "点击跳转至 t.me/dzdf88",
+    "benefits": {
+      "daily": {
+        "title": "每日牌局分析",
+        "desc": "职业教练每天发布精选牌局复盘，逐步解析每个关键决策"
+      },
+      "community": {
+        "title": "活跃讨论社区",
+        "desc": "与数千名牌手交流心得，提问、讨论、互相进步"
+      },
+      "exclusive": {
+        "title": "专属学习资料",
+        "desc": "独家 PDF 策略手册、概率速查表、范围图等精品资料"
+      },
+      "live": {
+        "title": "直播通知优先",
+        "desc": "第一时间获取直播课程通知，参与限额答疑互动"
+      }
+    },
+    "testimonials": {
+      "t1": {
+        "text": "加入社群后三个月，我的现金桌赢率从 -2bb/100 提升到了 +8bb/100，完全改变了我的打法思路。",
+        "author": "小王",
+        "role": "NL50 玩家"
+      },
+      "t2": {
+        "text": "这里的复盘讨论质量非常高，遇到困惑的手牌发出来总能得到专业的解析，强烈推荐！",
+        "author": "Lisa",
+        "role": "业余锦标赛选手"
+      },
+      "t3": {
+        "text": "免费资料的质量超出预期，GTO 入门手册让我对均衡策略有了全新的认识。",
+        "author": "阿杰",
+        "role": "扑克爱好者"
+      }
+    },
+    "finalCta": {
+      "title": "今天就开始你的扑克进阶之路",
+      "subtitle": "加入社群完全免费，立即获取所有学习资源",
+      "button": "加入 Telegram → t.me/dzdf88"
+    }
+  },
+  "footer": {
+    "desc": "专业扑克技能学习平台，助你系统掌握扑克策略，实现长期稳定盈利。",
+    "links": {
+      "title": "快速链接",
+      "home": "首页",
+      "learn": "学习中心",
+      "courses": "课程",
+      "join": "加入社群"
+    },
+    "contact": {
+      "title": "联系我们",
+      "telegram": "Telegram 社群",
+      "email": "邮箱"
+    },
+    "legal": {
+      "title": "法律声明",
+      "privacy": "隐私政策",
+      "terms": "服务条款"
+    },
+    "copyright": "© 2024 PokerSkill.io 版权所有",
+    "disclaimer": "本平台仅提供扑克技能教育内容，不涉及任何赌博或金融活动。"
+  }
+}

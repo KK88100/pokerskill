@@ -1,0 +1,210 @@
+{
+  "nav": {
+    "home": "Home",
+    "learn": "Learn",
+    "courses": "Courses",
+    "join": "Join Community",
+    "joinTelegram": "Join Telegram"
+  },
+  "hero": {
+    "badge": "Professional Poker Training Platform",
+    "title": "Master Poker Skills,",
+    "titleHighlight": "Win More Consistently",
+    "subtitle": "From fundamentals to advanced GTO strategy, learn systematic poker thinking. Join thousands of students and continuously evolve your game.",
+    "cta": "Start Learning Now",
+    "ctaSecondary": "Join Telegram Community",
+    "stats": {
+      "students": "Active Students",
+      "courses": "Pro Courses",
+      "winRate": "Win Rate Boost",
+      "community": "Community Members"
+    }
+  },
+  "features": {
+    "title": "Why Choose PokerSkill",
+    "subtitle": "We provide a systematic poker learning path to help you grow from beginner to expert",
+    "items": {
+      "strategy": {
+        "title": "Professional Strategy System",
+        "desc": "Covers Texas Hold'em, Omaha and more — from basic equity calculation to advanced GTO strategy"
+      },
+      "community": {
+        "title": "Elite Community Discussion",
+        "desc": "Join the exclusive Telegram group, exchange ideas with professional players and review hands in real time"
+      },
+      "video": {
+        "title": "Real-Game Video Lessons",
+        "desc": "HD recordings of real hands analyzed hand-by-hand, with pros explaining the logic behind every decision"
+      },
+      "progress": {
+        "title": "Progress Tracking System",
+        "desc": "Visualize your learning progress and receive smart recommendations targeting your weak spots"
+      },
+      "live": {
+        "title": "Live Q&A Sessions",
+        "desc": "Weekly live streams with professional coaches answering questions and breaking down common mistakes"
+      },
+      "certificate": {
+        "title": "Skill Certification",
+        "desc": "Earn a professional certificate upon course completion to validate your poker skill level"
+      }
+    }
+  },
+  "cta": {
+    "title": "Ready to Elevate Your Poker Game?",
+    "subtitle": "Join our Telegram community now and get free study materials and daily hand analysis",
+    "button": "Join Now at t.me/dzdf88",
+    "note": "Completely free, leave anytime"
+  },
+  "learn": {
+    "title": "Learning Center",
+    "subtitle": "Systematic poker knowledge — from beginner to master",
+    "filterAll": "All",
+    "filterBeginner": "Beginner",
+    "filterIntermediate": "Intermediate",
+    "filterAdvanced": "Advanced",
+    "readMore": "Read More",
+    "articles": {
+      "basics": {
+        "title": "Complete Beginner's Guide to Texas Hold'em",
+        "desc": "Learn Texas Hold'em from scratch — hand rankings, basic rules, and up the table in 10 minutes",
+        "tag": "Beginner"
+      },
+      "position": {
+        "title": "Positional Advantage: The Most Important Concept in Poker",
+        "desc": "Understand how position shapes your decisions and leverage late position to extract maximum value",
+        "tag": "Intermediate"
+      },
+      "gto": {
+        "title": "GTO Strategy Intro: Game Theory Optimal Explained",
+        "desc": "Grasp the fundamentals of GTO and build an unexploitable poker strategy from the ground up",
+        "tag": "Advanced"
+      },
+      "bankroll": {
+        "title": "Bankroll Management: The Key to Long-Term Profit",
+        "desc": "Smart bankroll strategies to survive downswings and sustain consistent long-term profitability",
+        "tag": "Intermediate"
+      },
+      "reads": {
+        "title": "Reading Opponents: Decoding Behavioral Patterns",
+        "desc": "Use bet sizing, timing and behavioral cues to narrow down opponent hand ranges",
+        "tag": "Intermediate"
+      },
+      "bluff": {
+        "title": "The Art of the Bluff: When to Pull the Trigger",
+        "desc": "Learn to execute bluffs at the right moment so opponents can never put you on a hand",
+        "tag": "Advanced"
+      }
+    }
+  },
+  "courses": {
+    "title": "Professional Courses",
+    "subtitle": "Curriculum built by professional players to rapidly sharpen your skills",
+    "enrollNow": "Enroll Now",
+    "free": "Free",
+    "premium": "Premium",
+    "duration": "Duration",
+    "lessons": "Lessons",
+    "level": "Level",
+    "items": {
+      "beginner": {
+        "title": "Poker Crash Course for Beginners",
+        "desc": "Start from zero — master the rules, hand rankings, and basic strategy so you can sit confidently at the table within a week",
+        "duration": "6 hrs",
+        "lessons": "24",
+        "level": "Beginner"
+      },
+      "cash": {
+        "title": "Cash Game Profit System",
+        "desc": "A complete cash game strategy covering open ranges, value betting, pot protection, and more core techniques",
+        "duration": "12 hrs",
+        "lessons": "48",
+        "level": "Intermediate"
+      },
+      "tournament": {
+        "title": "Road to Tournament Champion",
+        "desc": "Deep-dive into tournament play: ICM pressure, bubble strategy, final table dynamics and other advanced techniques",
+        "duration": "15 hrs",
+        "lessons": "60",
+        "level": "Advanced"
+      },
+      "mental": {
+        "title": "Poker Psychology & Tilt Control",
+        "desc": "Build a bulletproof mental game — stay calm under pressure and eliminate tilt from your decision-making entirely",
+        "duration": "4 hrs",
+        "lessons": "16",
+        "level": "All Levels"
+      }
+    }
+  },
+  "join": {
+    "badge": "Free to Join — Limited Time",
+    "title": "Join the Most Professional",
+    "titleHighlight": "Poker Learning Community",
+    "subtitle": "Over 10,000+ poker enthusiasts have already joined — sharing hand reviews, strategy discussions and real-game tips every day",
+    "cta": "Join the Telegram Community Now",
+    "ctaNote": "Tap to open t.me/dzdf88",
+    "benefits": {
+      "daily": {
+        "title": "Daily Hand Analysis",
+        "desc": "Professional coaches post selected hand breakdowns every day, analyzing each critical decision step by step"
+      },
+      "community": {
+        "title": "Active Community",
+        "desc": "Exchange insights with thousands of players — ask questions, discuss spots, and improve together"
+      },
+      "exclusive": {
+        "title": "Exclusive Study Materials",
+        "desc": "Exclusive PDF strategy guides, quick-reference probability sheets, range charts and premium resources"
+      },
+      "live": {
+        "title": "Priority Live Stream Alerts",
+        "desc": "Be the first to know about live coaching sessions and secure your spot for limited Q&A slots"
+      }
+    },
+    "testimonials": {
+      "t1": {
+        "text": "After three months in the community my cash game win rate went from -2bb/100 to +8bb/100. It completely transformed how I think about the game.",
+        "author": "Michael W.",
+        "role": "NL50 Player"
+      },
+      "t2": {
+        "text": "The hand review discussions here are incredibly high quality. Post a confusing spot and you'll always get a thorough, professional breakdown. Highly recommended!",
+        "author": "Lisa",
+        "role": "Amateur Tournament Player"
+      },
+      "t3": {
+        "text": "The free resources exceeded my expectations. The GTO primer gave me a completely new understanding of balanced strategy.",
+        "author": "Alex J.",
+        "role": "Poker Enthusiast"
+      }
+    },
+    "finalCta": {
+      "title": "Start Your Poker Journey Today",
+      "subtitle": "Joining the community is completely free — get instant access to all learning resources",
+      "button": "Join Telegram → t.me/dzdf88"
+    }
+  },
+  "footer": {
+    "desc": "Professional poker skills learning platform helping you systematically master poker strategy for long-term consistent profit.",
+    "links": {
+      "title": "Quick Links",
+      "home": "Home",
+      "learn": "Learn",
+      "courses": "Courses",
+      "join": "Join Community"
+    },
+    "contact": {
+      "title": "Contact",
+      "telegram": "Telegram Community",
+      "email": "Email"
+    },
+    "legal": {
+      "title": "Legal",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service"
+    },
+    "copyright": "© 2024 PokerSkill.io All rights reserved.",
+    "disclaimer": "This platform provides poker skill education only and does not involve any gambling or financial activities."
+  }
+}

@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --gold: #d4af37;
+    --navy-950: #0a0f1a;
+    --navy-900: #0d1626;
+    --navy-800: #111f35;
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-navy-950 text-white;
+    font-family: 'Inter', sans-serif;
+  }
+}
+
+@layer utilities {
+  .text-gold-500 { color: #d4af37; }
+  .bg-gold-500 { background-color: #d4af37; }
+  .border-gold-500 { border-color: #d4af37; }
+  .bg-navy-950 { background-color: #0a0f1a; }
+  .bg-navy-900 { background-color: #0d1626; }
+  .bg-navy-800 { background-color: #111f35; }
+  .text-navy-950 { color: #0a0f1a; }
+}
